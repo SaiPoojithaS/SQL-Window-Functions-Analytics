@@ -1,0 +1,11 @@
+Employee,Region,Month,Sales
+Asha,North,01-01-2024,1000
+Ravi,South,01-02-2024,800
+Asha,North,01-01-2024,1200
+Ravi,South,01-02-2024,900
+Asha,North,01-03-2024,1100
+Ravi,South,01-03-2024,950
+Neha,North,01-01-2024,700
+Zoya,South,01-02-2024,950
+Neha,North,01-01-2024,1000
+Zoya,South,01-02-2024,1100
